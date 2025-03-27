@@ -1,4 +1,4 @@
-# burgu2
+# Burgueria-online
 
 
 Desenvolvi um cardápio digital responsivo para restaurantes, focado em performance, usabilidade e integração com sistemas de pedidos.
